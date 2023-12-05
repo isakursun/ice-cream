@@ -1,4 +1,4 @@
-<h1> İce-Cream </h1>
+<h1> ice cream </h1>
 
 This project is an ice cream application where ice cream flavors and toppings can be added and removed. Unit test procedures have been conducted.
 
